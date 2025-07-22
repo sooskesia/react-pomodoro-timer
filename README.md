@@ -11,7 +11,7 @@ A simple Pomodoro timer built with React.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/react-pomodoro-timer.git
+git clone https://github.com/sooskesia/react-pomodoro-timer.git
 cd react-pomodoro-timer
 npm install
 npm start
